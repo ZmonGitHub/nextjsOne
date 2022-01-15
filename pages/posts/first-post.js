@@ -10,9 +10,9 @@ export default function First() {
         <title>我是first-post</title>
       </Head>
       <h1>First Post</h1>
-      <Link href="/">
+      {/* <Link href="/">
         <a>Back To Home</a>
-      </Link>
+      </Link> */}
       <Image src="/images/yellow.jfif" width="200px" height="200px"></Image>
     </Layout>
   );
